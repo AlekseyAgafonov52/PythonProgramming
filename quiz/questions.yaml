@@ -1,0 +1,58 @@
+---
+- question: Какая последняя буква была добавлена в английский алфавит?
+  answers:
+  - Z
+  - F
+  - J
+  - D
+  correct_answer: 2
+- question: Как называют первый компьютер в истории?
+  answers:
+  - ENIAC
+  - Abacus
+  - NEAC
+  - Mainframe
+  correct_answer: 0
+- question: Какая самая маленькая страна в мире?
+  answers:
+  - Бразилия
+  - Вьетнам
+  - Австралия
+  - Ватикан
+  correct_answer: 3
+- question: Какая знаменитая британская группа написала и исполнила песню Желтая подводная
+    лодка?
+  answers:
+  - Backstreet Boys
+  - The Carpenters
+  - NSYNC
+  - Beatles
+  correct_answer: 3
+- question: Как зовут человека за образом Мистера Бина?
+  answers:
+  - Джеймс Корден
+  - Роуэн Аткинсон
+  - Роуэн Смит
+  - Маколей Калкин
+  correct_answer: 1
+- question: Какое число считается несчастливым в Японии?
+  answers:
+  - '13'
+  - '3'
+  - '4'
+  - '8'
+  correct_answer: 2
+- question: Когда отмечают день числа Пи?
+  answers:
+  - 30 июня
+  - 12 октября
+  - 22 июля
+  - 8 мая
+  correct_answer: 2
+- question: Когда был представлен первый iPhone?
+  answers:
+  - '2000'
+  - '2011'
+  - '2007'
+  - '2003'
+  correct_answer: 1
